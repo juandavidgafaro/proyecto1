@@ -1,0 +1,3 @@
+En el dia de hoy los temas tratados son: *Conceptos de Git Bash  *Manejo del programa Git Bash    
+¿Que es un sistema de control de versiones? R/. Este sistema nos permite modificar el codigo fuente, guardando los
+cambios realizados sobre este codigo.
