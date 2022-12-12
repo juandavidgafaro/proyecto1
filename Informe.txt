@@ -1,1 +1,0 @@
-Lo visto en clase anterior fue: se trabajo en el concepto y la introduccion en el manejo del programa Git Bash
