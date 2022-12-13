@@ -1,3 +1,5 @@
 En el dia de hoy los temas tratados son: *Conceptos de Git Bash  *Manejo del programa Git Bash    
 ¿Que es un sistema de control de versiones? R/. Este sistema nos permite modificar el codigo fuente, guardando los
 cambios realizados sobre este codigo.
+¿Como ignorar archivos para que no se vean comprometidos? R/. Para que los archivos no se vean comprometidos en el area de trabajo
+se deben agregar a el archivo .gitignore.
